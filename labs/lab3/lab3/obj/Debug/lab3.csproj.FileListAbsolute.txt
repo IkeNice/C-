@@ -1,0 +1,18 @@
+c:\users\laptop-mike\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.exe.config
+c:\users\laptop-mike\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.exe
+c:\users\laptop-mike\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.pdb
+c:\users\laptop-mike\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.exe
+c:\users\laptop-mike\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Laptop-Mike\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\hieut\OneDrive\Рабочий стол\С#\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\hieut\OneDrive\Рабочий стол\С#\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\hieut\OneDrive\Рабочий стол\С#\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\hieut\OneDrive\Рабочий стол\С#\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\hieut\OneDrive\Рабочий стол\С#\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\hieut\OneDrive\Рабочий стол\С#\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\obj\Debug\lab3.pdb

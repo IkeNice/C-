@@ -44,6 +44,7 @@
             // button10
             // 
             this.button10.BackColor = System.Drawing.SystemColors.Desktop;
+            this.button10.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button10.Location = new System.Drawing.Point(262, 372);
             this.button10.Margin = new System.Windows.Forms.Padding(2);
             this.button10.Name = "button10";
