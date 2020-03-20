@@ -14,13 +14,12 @@ namespace lab5
     {
         double x1 = 100, red = 0, green = 0, blue = 0, y1 = 100, R = 50;
         int speedx = 10, speedy = 10;
-        int maxH, maxW, speedR = 20; bool f = false;
+        int maxH, maxW, speedR = 20;
+        bool f = false;
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
-            if (f == true)
-                f = false;
-            else f = true;
+
         }
 
         private void button3_Click(object sender, EventArgs e)
