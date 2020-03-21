@@ -90,11 +90,11 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(76, 325);
+            this.button6.Location = new System.Drawing.Point(76, 240);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 23);
             this.button6.TabIndex = 5;
-            this.button6.Text = "задание 8";
+            this.button6.Text = "задание 6";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -110,11 +110,11 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(76, 237);
+            this.button8.Location = new System.Drawing.Point(76, 322);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 23);
             this.button8.TabIndex = 7;
-            this.button8.Text = "задание 6";
+            this.button8.Text = "задание 8";
             this.button8.UseVisualStyleBackColor = true;
             this.button8.Click += new System.EventHandler(this.button1_Click);
             // 

@@ -37,6 +37,9 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form7";
             this.Text = "Задание 7";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Shown += new System.EventHandler(this.Form7_Shown);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form7_KeyDown);
             this.ResumeLayout(false);
 
         }

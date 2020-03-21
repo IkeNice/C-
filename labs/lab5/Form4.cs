@@ -21,6 +21,11 @@ namespace lab5
             else f = true;
         }
 
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
+        }
+
         int speedx = 10, speedy = 10;
         int maxH, maxW, speedR = 20;
         public Form4()

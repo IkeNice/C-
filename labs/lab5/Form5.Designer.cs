@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form5";
             this.Text = "Задание 5";
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form5_MouseMove);
             this.ResumeLayout(false);
 
         }
