@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Form11
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "Form11";
             this.Text = "Form11";
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form11_MouseClick);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
