@@ -12,16 +12,20 @@ namespace lab6
 {
     public partial class Form21 : Form
     {
-        private int xWidth, yHeight;
+        private float x1, y1, x2 = 100, y2 = 50;
         public Form21()
         {
             InitializeComponent();
+            x1 = this.Width / 2 - x2 / 2;
+            y1 = this.Height / 2 - y2 / 2;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            xWidth += 10;
-            yHeight += 5;
+            x1 -= 10;
+            y1 -= 5;
+            x2 += 20;
+            y2 += 10;
             Invalidate();
         }
 
@@ -29,8 +33,7 @@ namespace lab6
         {
             Graphics dc = e.Graphics;
             SolidBrush b = new SolidBrush(Color.FromArgb(55, 100, 55));
-            dc.FillRectangle(b, (float)10, (float)100, (float)xWidth, (float)yHeight);
-
+            dc.FillRectangle(b, x1, y1, x2, y2);
         }
     }
 }

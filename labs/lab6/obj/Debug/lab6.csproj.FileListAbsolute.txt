@@ -12,3 +12,4 @@ C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab6\obj\Debug\lab6
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab6\obj\Debug\lab6.Form11.resources
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab6\obj\Debug\lab6.Form12.resources
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab6\obj\Debug\lab6.Form13.resources
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab6\obj\Debug\lab6.Form22.resources
