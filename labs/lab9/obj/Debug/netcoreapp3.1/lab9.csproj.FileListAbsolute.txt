@@ -1,0 +1,13 @@
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\bin\Debug\netcoreapp3.1\lab9.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\bin\Debug\netcoreapp3.1\lab9.deps.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.dev.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\bin\Debug\netcoreapp3.1\lab9.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\bin\Debug\netcoreapp3.1\lab9.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\obj\Debug\netcoreapp3.1\lab9.csprojAssemblyReference.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\obj\Debug\netcoreapp3.1\lab9.csproj.CoreCompileInputs.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfoInputs.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfo.cs
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\obj\Debug\netcoreapp3.1\lab9.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\obj\Debug\netcoreapp3.1\lab9.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab9\obj\Debug\netcoreapp3.1\lab9.genruntimeconfig.cache
