@@ -9,3 +9,16 @@ C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\labs\obj\Debug\netc
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\labs\obj\Debug\netcoreapp3.1\labs.AssemblyInfo.cs
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\labs\obj\Debug\netcoreapp3.1\labs.dll
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\labs\obj\Debug\netcoreapp3.1\labs.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\bin\Debug\netcoreapp3.1\labs.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\bin\Debug\netcoreapp3.1\labs.deps.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\bin\Debug\netcoreapp3.1\labs.runtimeconfig.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\bin\Debug\netcoreapp3.1\labs.runtimeconfig.dev.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\bin\Debug\netcoreapp3.1\labs.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\bin\Debug\netcoreapp3.1\labs.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\obj\Debug\netcoreapp3.1\labs.csprojAssemblyReference.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\obj\Debug\netcoreapp3.1\labs.csproj.CoreCompileInputs.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\obj\Debug\netcoreapp3.1\labs.AssemblyInfoInputs.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\obj\Debug\netcoreapp3.1\labs.AssemblyInfo.cs
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\obj\Debug\netcoreapp3.1\labs.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\obj\Debug\netcoreapp3.1\labs.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\spiral\obj\Debug\netcoreapp3.1\labs.genruntimeconfig.cache

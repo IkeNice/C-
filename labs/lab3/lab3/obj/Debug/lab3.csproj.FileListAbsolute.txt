@@ -16,3 +16,4 @@ C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\bin\Debug
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\obj\Debug\lab3.exe
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\labs\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache

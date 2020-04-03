@@ -16,3 +16,4 @@ C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\TicTacto
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\TicTactoe\TicTactoe\obj\Debug\TicTactoe.csproj.GenerateResource.cache
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\TicTactoe\TicTactoe\obj\Debug\TicTactoe.exe
 C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\TicTactoe\TicTactoe\obj\Debug\TicTactoe.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\TicTacToe\TicTactoe\obj\Debug\TicTactoe.csproj.CoreCompileInputs.cache

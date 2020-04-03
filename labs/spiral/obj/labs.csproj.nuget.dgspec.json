@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\labs\\labs.csproj": {}
+    "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\spiral\\labs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\labs\\labs.csproj": {
+    "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\spiral\\labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\labs\\labs.csproj",
+        "projectUniqueName": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\spiral\\labs.csproj",
         "projectName": "labs",
-        "projectPath": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\labs\\labs.csproj",
+        "projectPath": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\spiral\\labs.csproj",
         "packagesPath": "C:\\Users\\hieut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\labs\\obj\\",
+        "outputPath": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\labs\\spiral\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -18,7 +18,6 @@ namespace TicTactoe
             this.Height = 450;
             this.Width = 350;
             player = 1;
-            label1.Text = "Текущий ход: Игрок 1";
             for (int i = 0; i < buttons.Length / 3; i++) {
                 for (int j = 0; j < buttons.Length / 3; j++) {
                     buttons[i, j] = new Button();
@@ -45,7 +44,6 @@ namespace TicTactoe
             sender.GetType().GetProperty("Text").SetValue(sender, "x");
             player = 0;
    
-            label1.Text = "Текущий ход: Игрок 2";
             bot();
             sender.GetType().GetProperty("Enabled").SetValue(sender, false);
             checkWin();
@@ -61,17 +59,15 @@ namespace TicTactoe
                     buttons[i, j].Enabled = false;
                     break;
                 }
-                  
             }
             player = 1;
-            label1.Text = "Текущий ход: Игрок 1";
         }
         private void checkWin() {
             if (buttons[0, 0].Text == buttons[0, 1].Text && buttons[0, 1].Text == buttons[0, 2].Text) {
-                if (buttons[0, 0].Text == "x") {
+                if (buttons[0, 0].Text == "x") 
                     MessageBox.Show("Вы победили!");
-                    return;
-                }
+                if (buttons[0, 0].Text == "о")
+                    MessageBox.Show("Вы проиграли!");
             }
             if (buttons[1, 0].Text == buttons[1, 1].Text && buttons[1, 1].Text == buttons[1, 2].Text) {
                 if (buttons[1, 0].Text == "x")
@@ -118,7 +114,6 @@ namespace TicTactoe
         }
 
         private void buttonPlay_Click(object sender, EventArgs e) {
-            label1.Text = "Текущий ход: Игрок 1";
             for (int i = 0; i < 3; i++) {
                 for (int j = 0; j < 3; j++) {
                     buttons[i, j].Text = "";
