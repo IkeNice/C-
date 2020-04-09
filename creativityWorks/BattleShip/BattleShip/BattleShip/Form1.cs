@@ -20,7 +20,7 @@ namespace BattleShip {
         public Form1() {
             InitializeComponent();
         }
-
+        // начать
         private void Button1_Click(object sender, EventArgs e) {
             OpponentBoard = ArrangeShips(OpponentBoard,false);
             for (int i = 0; i < sizePole; i++) {
@@ -55,7 +55,7 @@ namespace BattleShip {
                 if (permission) {
                     for (int i = 0; i < ship; i++) {
                         Point p = new Point(positionStart.X + i * orientation.X, positionStart.Y + i * orientation.Y);
-                        if (myBoard) boardCopy[p.X,p.Y].BackColor = Color.Yellow;
+                        if (myBoard) boardCopy[p.X,p.Y].BackColor = Color.GreenYellow;
                         boardCopy[p.X, p.Y].Tag = 1;
                         forbiddenPoints.Add(p);
                         forbiddenPoints.Add(new Point(p.X, p.Y - 1));
@@ -72,7 +72,7 @@ namespace BattleShip {
             }
             return boardCopy;
         }
-
+        // перестроить
         private void Button2_Click(object sender, EventArgs e) {
             for (int i = 0; i < sizePole; i++)
                 for (int j = 0; j < sizePole; j++)
@@ -81,7 +81,6 @@ namespace BattleShip {
         }
 
         private void Form1_Load(object sender, EventArgs e) {
-
             int heightButtons = this.groupBox2.Height / sizePole - 3;
             Size buttonSize = new Size(this.groupBox2.Width / sizePole - 3, heightButtons);
             Font buttonsFont = new Font("Arial", heightButtons / 2);
@@ -119,16 +118,17 @@ namespace BattleShip {
             }
             YourBoard = ArrangeShips(YourBoard,true);
         }
-
+        // проверка победы
         private bool IsWiner2(Button[,] board) {
             for (int i = 0; i < sizePole; i++) {
                 for (int j = 0; j < sizePole; j++) {
-                    if (Convert.ToInt32(board[i, j].Tag) == 1) return false;
+                    if (Convert.ToInt32(board[i, j].Tag) == 1) 
+                        return false;
                 }
             }
             return true;
         }
-
+        // проверка на попадание
         private void ButtonPoleClick(object sender, EventArgs e) {
             string[] name = sender.GetType().GetProperty("Name").GetValue(sender).ToString().Split(' ');
             Point pos = new Point(int.Parse(name[0]), int.Parse(name[1]));
@@ -136,16 +136,19 @@ namespace BattleShip {
             if (Convert.ToInt32(OpponentBoard[pos.X, pos.Y].Tag) == 1) {
                 OpponentBoard[pos.X, pos.Y].BackColor = Color.Red;
                 OpponentBoard[pos.X, pos.Y].Tag = 0;
+                OpponentBoard[pos.X, pos.Y].Text = "X";
+            } else {
+                OpponentBoard[pos.X, pos.Y].BackColor = Color.Black;
             }
-            else OpponentBoard[pos.X, pos.Y].BackColor = Color.Black;
-
-            if (IsWiner2(OpponentBoard)) MessageBox.Show("Пользователь победил");
+            if (IsWiner2(OpponentBoard)) 
+                MessageBox.Show("Пользователь победил");
             else {
                 Random random = new Random();
                 Point posOpp = AcceptPoints[random.Next(AcceptPoints.Count)];
                 if (Convert.ToInt32(YourBoard[posOpp.X, posOpp.Y].Tag) == 1) {
                     YourBoard[posOpp.X, posOpp.Y].BackColor = Color.Red;
                     YourBoard[posOpp.X, posOpp.Y].Tag = 0;
+                    OpponentBoard[pos.X, pos.Y].Text = "X";
                 }
                 else YourBoard[posOpp.X, posOpp.Y].BackColor = Color.Black;
                 AcceptPoints.Remove(posOpp);

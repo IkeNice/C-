@@ -1,12 +1,9 @@
-﻿namespace The_Life_Game
-{
-    public enum Sex
-    {
+﻿namespace The_Life_Game{
+    public enum Sex{
         Male,
         Female
     }
-    public enum Direction
-    {
+    public enum Direction{
         Up,
         Down,
         Left,

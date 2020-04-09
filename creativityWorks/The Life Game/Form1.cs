@@ -8,8 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace The_Life_Game
-{
+namespace The_Life_Game{
     public partial class Form1 : Form {
         private int eaten = 0;
         private int Male = 0;
@@ -30,26 +29,21 @@ namespace The_Life_Game
             this.WindowState = FormWindowState.Maximized;
         }
 
-        private void timer_Tick(object sender, EventArgs e)
-        {
+        private void timer_Tick(object sender, EventArgs e){
             time++;
             pictureBox.Refresh();
-            foreach (var cell in population)
-            {
+            foreach (var cell in population){
                 cell.Run();
                 if (IsMeal(cell)) cell.HaveLunch();
                 graphics.FillEllipse(cell.Color, cell.Location.X, cell.Location.Y, Cell.Radius, Cell.Radius);
-
             }
             foreach (var meal in meals)
                 graphics.FillEllipse(meal.Color, meal.Location.X, meal.Location.Y, Meal.Radius, Meal.Radius);
-            if (population.Count > 500)
-            {
+            if (population.Count > 500){
                 timer.Stop();
                 MessageBox.Show(" Еды съедено " + eaten + "\n Мужчин " + Male + "\n Женщин " + Female + "\n Время работы пограммы " + time);
 
-                foreach (var cell in population)
-                {
+                foreach (var cell in population){
                     cell.Kill();
                     pictureBox.Refresh();
                 }
@@ -57,7 +51,7 @@ namespace The_Life_Game
             population.RemoveAll(IsNotAlive); // убиваем всех старичков
 
             NewCell();  // рожаем новые клетки
-            NewMeal();
+            NewMeal(); // новая еда
         }
 
         // make out - появление новой клетки
@@ -68,8 +62,7 @@ namespace The_Life_Game
                     && male.Sex != female.Sex);
         }
         // проверка на еду
-        private bool IsMeal(Cell cell) // 
-        {
+        private bool IsMeal(Cell cell) {
             var mealRadius = 10;
             var eated = -1; // индекс съеденной еды
             var isEated = false; // было ли что-то съедено?
@@ -80,21 +73,20 @@ namespace The_Life_Game
                     ++eaten;
                     break;
                 }
-
-            if (eated != -1) meals.RemoveAt(eated);
+            if (eated != -1) 
+                meals.RemoveAt(eated);
             return isEated;
         }
 
-        private bool IsNotAlive(Cell cell)
-        {
+        private bool IsNotAlive(Cell cell){
             return cell.Age == 0;
         }
 
         private void NewCell() {
             var kids = new List<Cell>(); // здесь будут потомки, появшиеся от пересечения 
-            var randSex = new Random();
-            var randLocation = new Random();
-            // ищем любовничков
+            var randSex = new Random(); // пол новых клеток
+            var randLocation = new Random(); // позиция
+            // ищем пару
             for (var firstParent = 0; firstParent < population.Count; firstParent++) {
                 for (var secondParent = firstParent + 1; secondParent < population.Count; secondParent++) {
                     if (IsMakeOut(population[firstParent], population[secondParent])) {
@@ -112,7 +104,7 @@ namespace The_Life_Game
                         // новая локация, так как делать клетку на месте рождения - самоубийство
                         // они начинают плодиться в геометрической прогрессии. Разом.
                         // пускай рождаются в радиусе 100 пикселей
-                        var bornRadius = 50;
+                        var bornRadius = 150;
                         var bornX = population[secondParent].Location.X + randLocation.Next(-bornRadius, bornRadius);
                         var bornY = population[secondParent].Location.Y + randLocation.Next(-bornRadius, bornRadius);
                         var newLocation = new Point(bornX, bornY);
@@ -128,13 +120,11 @@ namespace The_Life_Game
                     }
                 }
             }
-
             foreach (var kid in kids)
                 population.Add(kid);
         }
-
-        private void NewMeal()
-        {
+        // новая еда
+        private void NewMeal(){
             var timeAppereance = 5;
             if (time % timeAppereance == 0) meals.Add(new Meal());
         }

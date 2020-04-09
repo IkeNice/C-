@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hieut\\OneDrive\\Рабочий стол\\The Life Game\\The Life Game.csproj": {}
+    "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\creativityWorks\\The Life Game\\The Life Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hieut\\OneDrive\\Рабочий стол\\The Life Game\\The Life Game.csproj": {
+    "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\creativityWorks\\The Life Game\\The Life Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hieut\\OneDrive\\Рабочий стол\\The Life Game\\The Life Game.csproj",
+        "projectUniqueName": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\creativityWorks\\The Life Game\\The Life Game.csproj",
         "projectName": "The Life Game",
-        "projectPath": "C:\\Users\\hieut\\OneDrive\\Рабочий стол\\The Life Game\\The Life Game.csproj",
+        "projectPath": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\creativityWorks\\The Life Game\\The Life Game.csproj",
         "packagesPath": "C:\\Users\\hieut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hieut\\OneDrive\\Рабочий стол\\The Life Game\\obj\\",
+        "outputPath": "C:\\Users\\hieut\\OneDrive\\Документы\\Study_All\\C#\\creativityWorks\\The Life Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

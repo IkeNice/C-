@@ -1,0 +1,10 @@
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\bin\Debug\BattleShip_Server.exe.config
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\bin\Debug\BattleShip_Server.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\bin\Debug\BattleShip_Server.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\obj\Debug\BattleShip_Server.csprojAssemblyReference.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\obj\Debug\BattleShip_Server.Form1.resources
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\obj\Debug\BattleShip_Server.Properties.Resources.resources
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\obj\Debug\BattleShip_Server.csproj.GenerateResource.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\obj\Debug\BattleShip_Server.csproj.CoreCompileInputs.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\obj\Debug\BattleShip_Server.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip_ServerGame\BattleShip_Server\BattleShip_Server\BattleShip_Server\obj\Debug\BattleShip_Server.pdb

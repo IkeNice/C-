@@ -1,16 +1,13 @@
 ﻿using System;
 using System.Drawing;
 
-namespace The_Life_Game
-{
-    class Cell
-    {
+namespace The_Life_Game{
+    class Cell{
         private int age;
         private Sex sex;
         private Point location;
 
-        private void CheckBorderOfField()
-        {
+        private void CheckBorderOfField(){
             var borderUp = 0;
             var borderDown = 768;
             var borderLeft = 0;
@@ -24,20 +21,18 @@ namespace The_Life_Game
             else if (location.Y <= borderUp) location.Y = borderDown - border;
         }
 
-        public int Age { get => age ;}
-        public Sex Sex { get => sex; }
+        public int Age { get => age ;} // возраст
+        public Sex Sex { get => sex; } // пол
         public SolidBrush Color { get ; }
         public Point Location { get => location; }
         static public int Radius { get => 10; }
 
-        public Cell(Sex sex, Point location, int age = 20)
-        {
+        public Cell(Sex sex, Point location, int age = 20){
             this.sex = sex;
             this.location = location;
             this.age = age;
 
-            Color = Sex switch
-            {
+            Color = Sex switch{
                 Sex.Male => new SolidBrush(System.Drawing.Color.Blue),
                 Sex.Female => new SolidBrush(System.Drawing.Color.Pink),
                 _ => new SolidBrush(System.Drawing.Color.Black),
@@ -45,13 +40,11 @@ namespace The_Life_Game
 
         }
         // движение
-        public void Run()
-        {
+        public void Run(){
             var direction = (Direction)(new Random().Next(1, 4));
             var step = 5;
             
-            switch (direction)
-            {
+            switch (direction){
                 case Direction.Up:
                     CheckBorderOfField();
                     location.Y += step;
@@ -69,17 +62,14 @@ namespace The_Life_Game
                     location.X -= step;
                     break;
             }
-
             age -= 1; 
         }
 
-        public int Kill()
-        {
+        public int Kill(){
             return age = 0;
         }
         // увеличиваем продолжительность жизни
-        public void HaveLunch()
-        {
+        public void HaveLunch(){
             age += 20;
         }
     }

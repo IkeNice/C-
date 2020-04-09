@@ -44,3 +44,16 @@ C:\Users\hieut\OneDrive\Рабочий стол\The Life Game\obj\Debug\netcorea
 C:\Users\hieut\OneDrive\Рабочий стол\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.dll
 C:\Users\hieut\OneDrive\Рабочий стол\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.pdb
 C:\Users\hieut\OneDrive\Рабочий стол\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.genruntimeconfig.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\bin\Debug\netcoreapp3.1\The Life Game.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\bin\Debug\netcoreapp3.1\The Life Game.deps.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\bin\Debug\netcoreapp3.1\The Life Game.runtimeconfig.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\bin\Debug\netcoreapp3.1\The Life Game.runtimeconfig.dev.json
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\bin\Debug\netcoreapp3.1\The Life Game.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\bin\Debug\netcoreapp3.1\The Life Game.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.csprojAssemblyReference.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.csproj.CoreCompileInputs.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.AssemblyInfoInputs.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.AssemblyInfo.cs
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\The Life Game\obj\Debug\netcoreapp3.1\The Life Game.genruntimeconfig.cache

@@ -19,3 +19,24 @@ C:\Users\hieut\OneDrive\Рабочий стол\ProgrammingOnCSharp-master\Progr
 C:\Users\hieut\OneDrive\Рабочий стол\ProgrammingOnCSharp-master\Programms\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.CopyComplete
 C:\Users\hieut\OneDrive\Рабочий стол\ProgrammingOnCSharp-master\Programms\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.exe
 C:\Users\hieut\OneDrive\Рабочий стол\ProgrammingOnCSharp-master\Programms\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\Antlr3.Runtime.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\Iesi.Collections.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\NHibernate.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\Remotion.Linq.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\Antlr3.Runtime.xml
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\Iesi.Collections.xml
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\NHibernate.xml
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\Remotion.Linq.xml
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.Form1.resources
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.CopyComplete
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\hieut\OneDrive\Документы\Study_All\C#\creativityWorks\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
